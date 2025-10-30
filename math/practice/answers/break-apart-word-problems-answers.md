@@ -1,3 +1,5 @@
+<!-- Copyright (C) 2025 Mason Ham. This file is licensed under the GNU General Public License v3.0. See LICENSE in the project root for details. -->
+
 # Break Apart Word Problems Answer Key
 
 1. 3 × 14 = (3 × 10) + (3 × 4) = 30 + 12 = **42 smoothies**

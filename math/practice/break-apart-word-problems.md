@@ -1,3 +1,5 @@
+<!-- Copyright (C) 2025 Mason Ham. This file is licensed under the GNU General Public License v3.0. See LICENSE in the project root for details. -->
+
 # Break Apart Word Problems
 
 Read each story, break apart the bigger number, and solve by adding the smaller answers. Leave the final answer blank so you can fill it in.
