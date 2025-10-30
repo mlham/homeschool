@@ -43,6 +43,7 @@ Read each story, break apart the bigger number, and solve by adding the smaller 
     Show your split: 9 × 12 = (9 × 10) + (9 × 2) = ____
 
 ## Your Turn to Break Apart
+
 Fill in the blanks to show how you split the number and to find the answer.
 
 11. **Roller Coaster Riders**  
@@ -86,6 +87,7 @@ Fill in the blanks to show how you split the number and to find the answer.
     Show your split: 4 × 17 = (4 × ____) + (4 × ____) = ____ + ____ = ____
 
 ## Triple Split Challenge
+
 Break apart the bigger number into three friendly parts. Fill in every blank.
 
 21. **Space Shuttle Simulators**  
