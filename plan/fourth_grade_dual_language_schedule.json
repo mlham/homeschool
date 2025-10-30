@@ -1,0 +1,1176 @@
+{
+  "context": {
+    "learner_profile": {
+      "grade_level": "4th Grade",
+      "student_age": 9,
+      "student_gender": "male",
+      "learning_environment": "homeschool",
+      "language_program": "dual-language (English and Spanish)",
+      "learning_goals": [
+        "Strengthen reading, writing, math, and science skills at grade 4 level",
+        "Increase fluency and sophistication in both English and Spanish",
+        "Build grade-level academic vocabulary in both languages",
+        "Engage in inquiry, critical thinking and cross-discipline integration"
+      ]
+    },
+    "curriculum_alignment": {
+      "state": "North Carolina",
+      "standards_sources": [
+        "North Carolina Standard Course of Study for English Language Arts, Mathematics, Science",
+        "North Carolina World Language Essential Standards"
+      ],
+      "domains_covered": [
+        "English Language Arts",
+        "Spanish Language Arts",
+        "Mathematics",
+        "Science"
+      ]
+    },
+    "instructional_preferences": {
+      "activity_length": "Short and engaging (10\u201320 minutes each prompt)",
+      "reading_level": "4th grade Lexile level (~700\u2013900)",
+      "tone": "Encouraging, age-appropriate, conversational",
+      "formatting": {
+        "include_answer_keys": true,
+        "use_graphic_organizers": true,
+        "provide_step-by-step examples": true,
+        "allow_visual_supports": true
+      },
+      "lesson_design": {
+        "scaffold_instructions": true,
+        "support_independent_work": true,
+        "include_reflection_questions": true
+      }
+    },
+    "output_goals": {
+      "deliverables": [
+        "Mini-lessons with student prompts",
+        "Comprehension and practice questions",
+        "Hands-on or interactive components (drawing, solving, presenting)",
+        "English-Spanish integration when appropriate",
+        "Weekly thematic connections across subjects",
+        "Cultural relevance in Spanish lessons",
+        "Oral and written expression opportunities in both languages",
+        "Real-world contexts in math and science",
+        "Critical thinking and creativity encouragement",
+        "Regular review and reinforcement of learned concepts",
+        "Differentiation for varying skill levels",
+        "Parental guidance and extension suggestions",
+        "Alignment with NC state standards",
+      "Formative assessment ideas included",
+      "Use of manipulatives or physical materials when helpful"
+      ]
+    }
+  },
+  "personal_survey": {
+    "student_profile": {
+      "name": "Evan",
+      "age": 9,
+      "homeschool_year": "second"
+    },
+    "interests": [
+      "space exploration",
+      "LEGO builds",
+      "basketball",
+      "animal rescues",
+      "mystery stories",
+      "mindcraft",
+      "science experiments",
+      "nature"
+    ],
+    "learning_style": {
+      "best_methods": [
+        "hands-on projects",
+        "short instructional videos",
+        "interactive games",
+        "visual aids",
+        "story-based learning",
+        "kinesthetic activities"
+      ],
+      "needs": [
+        "clear step-by-step directions",
+        "quick understanding checks",
+        "frequent breaks",
+        "positive reinforcement",
+        "varied activity types",
+        "opportunities for movement",
+        "oral instructions alongside written ones",
+        "no loud or distracting environments"
+      ]
+    },
+    "confidence_snapshot": {
+      "strengths": [
+        "reading comprehension",
+        "science experiments"
+      ],
+      "growth_areas": [
+        "multi-step math",
+        "cursive writing"
+      ]
+    },
+    "motivators": {
+      "rewards": [
+        "extra LEGO time",
+        "choice of next science topic",
+        "outdoor exploration time",
+        "special snacks",
+        "mindcraft breaks",
+        "sticker charts"
+      ],
+      "encouragement_style": "mission-themed challenges"
+    },
+    "schedule_preferences": {
+      "learning_blocks": "30-minute sessions followed by movement breaks",
+      "afternoon_focus": "creative projects or field trips"
+    },
+    "family_goals": [
+      "Build math fluency",
+      "Increase nonfiction reading stamina",
+      "Start basic research projects with simple citations",
+      "Enhance Spanish conversational skills",
+      "Foster a love of science through experiments and nature exploration",
+      "Incorporate more writing across subjects",
+      "Encourage independent learning habits",
+      "Connect learning to real-world contexts",
+      "Promote critical thinking and problem-solving skills",
+      "Provide clear empathy and social skills development opportunities",
+      "Build stronger organizational skills for assignments and materials",
+      "Support emotional regulation strategies during challenging tasks",
+      "Cultivate curiosity and a growth mindset towards learning",
+      "Balance structured lessons with free exploration time"
+    ],
+    "support_needs": [
+      "dysgraphia accommodations such as graph paper and typing option",
+      "oral narration before writing",
+      "gentle reminders to review work",
+      "visual schedules and checklists",
+      "frequent positive feedback",
+      "flexible pacing for challenging subjects",
+      "access to manipulatives for math concepts",
+      "quiet workspace for focused tasks",
+      "regular communication with parents on progress and challenges",
+      "suggestions for multisensory learning activities",
+      "guidance on building study skills",
+      "strategies for managing frustration",
+      "encouragement to celebrate small successes",
+      "ideas for integrating interests into lessons",
+      "tips for fostering independence in learning",
+      "recommendations for age-appropriate reading materials",
+      "resources for dual-language learning support"
+    ],
+    "assessment_preferences": [
+      "exit tickets or short quizzes",
+      "project presentations to family twice per month"
+    ],
+    "social_learning": [
+      "weekly co-op science lab",
+      "monthly museum visits",
+      "history reenactment calls with cousin and other family members",
+      "periodic virtual language exchanges with Spanish-speaking pen pals",
+      "local homeschool group field trips",
+      "community service projects related to learning topics",
+      "group storytelling or drama activities",
+      "collaborative art or building projects",
+      "nature walks with observation and journaling with peers",
+      "book clubs or reading circles",
+      "math games or competitions with friends",
+      "science fairs or exhibitions",
+      "cultural celebrations or cooking activities in Spanish",
+      "virtual meetups for sharing research projects",
+      "peer review sessions for writing assignments",
+      "group problem-solving challenges",
+      "language practice games with siblings or friends",
+      "team sports or physical activities to build social skills",
+      "music or dance activities from Spanish-speaking cultures",
+      "family storytelling nights incorporating learned themes",
+      "show-and-tell sessions for projects completed",
+      "joint art projects reflecting cultural studies",
+      "collaborative science experiments or observations",
+      "shared reading time with discussion questions",
+      "partner math problem-solving activities",
+      "group field trips to local historical sites",
+      "virtual cultural exchange presentations",
+      "joint nature exploration and documentation",
+      "team-based educational games or challenges",
+      "family cooking nights featuring ethnic recipes"
+    ],
+    "additional_notes": [
+      "sensitive to loud noises; provide calming playlist options",
+      "connect math to real-world situations when possible"
+    ]
+  },
+  "schedule": [
+    {
+      "week": "Week 1",
+      "start_date": "2025-08-21",
+      "end_date": "2025-08-27",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a story with dialogue and theme. Include 5 comprehension and 3 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 2",
+      "start_date": "2025-08-28",
+      "end_date": "2025-09-03",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt requiring a clearly stated opinion, supporting reasons, and linking words. Include 3 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: Provide themed Spanish vocabulary with 10 new words, 5 example sentences, and a matching activity.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Generate 4 two-digit by one-digit and 2 multi-step word problems. Include space to show work.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Provide reading on ecosystems or animal adaptations with 5 follow-up questions and 1 drawing task.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 3",
+      "start_date": "2025-09-04",
+      "end_date": "2025-09-10",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate a nonfiction passage about a science or social studies topic with 5 comprehension and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Create a Spanish paragraph (~100 words) with 5 comprehension and 2 inference questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Write 5 word problems with remainders. Ask students to explain their reasoning in one sentence.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth Science: Create a task comparing types of rocks or soils. Include sorting activity and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 4",
+      "start_date": "2025-09-11",
+      "end_date": "2025-09-17",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Create grammar practice involving complex sentences, possessives, and plural rules. Provide 4 sample sentences to correct or complete.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Offer verb conjugation practice in present tense and irregular forms. Include 4 fill-in-the-blank sentences.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Create fraction comparison and equivalent fraction tasks with visuals. Include 3 questions using number lines.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Build a lesson on forces and motion. Include a toy car investigation and 3 critical thinking questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 5",
+      "start_date": "2025-09-18",
+      "end_date": "2025-09-24",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt a story with a clear beginning, rising action, climax, and resolution. Include 2 visual organizer templates.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a paragraph about a family tradition or favorite activity in Spanish. Include 2 sentence starters.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Write problems involving perimeter, area, and elapsed time. Include 1 real-world scenario.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Prompt a task on light or sound energy with diagrams. Include vocabulary and 3 questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 6",
+      "start_date": "2025-09-25",
+      "end_date": "2025-10-01",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Design a retelling/presentation task using note cards and visual prompts. Include a rubric and 2 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Task student to prepare a short speech in Spanish about a personal interest. Include checklist and 2 practice lines.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Task students with identifying lines, angles, and classifying shapes. Include diagrams and 4 multiple choice questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Weather/Climate: Provide a reading on weather patterns and graphing activity using real data. Include 4 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 7",
+      "start_date": "2025-10-02",
+      "end_date": "2025-10-08",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Create a structured research prompt with a sample topic, note-taking chart, and 4 questions to guide inquiry.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Present a mini reading in Spanish about a Hispanic holiday or custom. Include 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Provide bar graph and line plot interpretation problems. Include 2 questions where students create their own graph.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Ask students to brainstorm and categorize ways humans affect Earth. Include drawing + 2 short responses.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 8",
+      "start_date": "2025-10-09",
+      "end_date": "2025-10-15",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with figurative language. Include 3 interpretation and 2 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 9",
+      "start_date": "2025-10-16",
+      "end_date": "2025-10-22",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a story with dialogue and theme. Include 5 comprehension and 3 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: Provide themed Spanish vocabulary with 10 new words, 5 example sentences, and a matching activity.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Generate 4 two-digit by one-digit and 2 multi-step word problems. Include space to show work.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Provide reading on ecosystems or animal adaptations with 5 follow-up questions and 1 drawing task.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 10",
+      "start_date": "2025-10-23",
+      "end_date": "2025-10-29",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt requiring a clearly stated opinion, supporting reasons, and linking words. Include 3 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Create a Spanish paragraph (~100 words) with 5 comprehension and 2 inference questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Write 5 word problems with remainders. Ask students to explain their reasoning in one sentence.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth Science: Create a task comparing types of rocks or soils. Include sorting activity and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 11",
+      "start_date": "2025-10-30",
+      "end_date": "2025-11-05",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate a nonfiction passage about a science or social studies topic with 5 comprehension and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Offer verb conjugation practice in present tense and irregular forms. Include 4 fill-in-the-blank sentences.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Create fraction comparison and equivalent fraction tasks with visuals. Include 3 questions using number lines.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Build a lesson on forces and motion. Include a toy car investigation and 3 critical thinking questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 12",
+      "start_date": "2025-11-06",
+      "end_date": "2025-11-12",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Create grammar practice involving complex sentences, possessives, and plural rules. Provide 4 sample sentences to correct or complete.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a paragraph about a family tradition or favorite activity in Spanish. Include 2 sentence starters.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Write problems involving perimeter, area, and elapsed time. Include 1 real-world scenario.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Prompt a task on light or sound energy with diagrams. Include vocabulary and 3 questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 13",
+      "start_date": "2025-11-13",
+      "end_date": "2025-11-19",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt a story with a clear beginning, rising action, climax, and resolution. Include 2 visual organizer templates.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Task student to prepare a short speech in Spanish about a personal interest. Include checklist and 2 practice lines.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Task students with identifying lines, angles, and classifying shapes. Include diagrams and 4 multiple choice questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Weather/Climate: Provide a reading on weather patterns and graphing activity using real data. Include 4 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 14",
+      "start_date": "2025-12-04",
+      "end_date": "2025-12-10",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Design a retelling/presentation task using note cards and visual prompts. Include a rubric and 2 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Present a mini reading in Spanish about a Hispanic holiday or custom. Include 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Provide bar graph and line plot interpretation problems. Include 2 questions where students create their own graph.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Ask students to brainstorm and categorize ways humans affect Earth. Include drawing + 2 short responses.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 15",
+      "start_date": "2025-12-11",
+      "end_date": "2025-12-17",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Create a structured research prompt with a sample topic, note-taking chart, and 4 questions to guide inquiry.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 16",
+      "start_date": "2026-01-08",
+      "end_date": "2026-01-14",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with figurative language. Include 3 interpretation and 2 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: Provide themed Spanish vocabulary with 10 new words, 5 example sentences, and a matching activity.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Generate 4 two-digit by one-digit and 2 multi-step word problems. Include space to show work.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Provide reading on ecosystems or animal adaptations with 5 follow-up questions and 1 drawing task.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 17",
+      "start_date": "2026-01-15",
+      "end_date": "2026-01-21",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a story with dialogue and theme. Include 5 comprehension and 3 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Create a Spanish paragraph (~100 words) with 5 comprehension and 2 inference questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Write 5 word problems with remainders. Ask students to explain their reasoning in one sentence.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth Science: Create a task comparing types of rocks or soils. Include sorting activity and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 18",
+      "start_date": "2026-01-22",
+      "end_date": "2026-01-28",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt requiring a clearly stated opinion, supporting reasons, and linking words. Include 3 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Offer verb conjugation practice in present tense and irregular forms. Include 4 fill-in-the-blank sentences.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Create fraction comparison and equivalent fraction tasks with visuals. Include 3 questions using number lines.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Build a lesson on forces and motion. Include a toy car investigation and 3 critical thinking questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 19",
+      "start_date": "2026-01-29",
+      "end_date": "2026-02-04",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate a nonfiction passage about a science or social studies topic with 5 comprehension and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a paragraph about a family tradition or favorite activity in Spanish. Include 2 sentence starters.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Write problems involving perimeter, area, and elapsed time. Include 1 real-world scenario.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Prompt a task on light or sound energy with diagrams. Include vocabulary and 3 questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 20",
+      "start_date": "2026-02-05",
+      "end_date": "2026-02-11",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Create grammar practice involving complex sentences, possessives, and plural rules. Provide 4 sample sentences to correct or complete.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Task student to prepare a short speech in Spanish about a personal interest. Include checklist and 2 practice lines.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Task students with identifying lines, angles, and classifying shapes. Include diagrams and 4 multiple choice questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Weather/Climate: Provide a reading on weather patterns and graphing activity using real data. Include 4 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 21",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-18",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt a story with a clear beginning, rising action, climax, and resolution. Include 2 visual organizer templates.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Present a mini reading in Spanish about a Hispanic holiday or custom. Include 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Provide bar graph and line plot interpretation problems. Include 2 questions where students create their own graph.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Ask students to brainstorm and categorize ways humans affect Earth. Include drawing + 2 short responses.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 22",
+      "start_date": "2026-02-19",
+      "end_date": "2026-02-25",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Design a retelling/presentation task using note cards and visual prompts. Include a rubric and 2 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 23",
+      "start_date": "2026-02-26",
+      "end_date": "2026-03-04",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Create a structured research prompt with a sample topic, note-taking chart, and 4 questions to guide inquiry.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: Provide themed Spanish vocabulary with 10 new words, 5 example sentences, and a matching activity.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Generate 4 two-digit by one-digit and 2 multi-step word problems. Include space to show work.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Provide reading on ecosystems or animal adaptations with 5 follow-up questions and 1 drawing task.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 24",
+      "start_date": "2026-03-05",
+      "end_date": "2026-03-11",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with figurative language. Include 3 interpretation and 2 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Create a Spanish paragraph (~100 words) with 5 comprehension and 2 inference questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Write 5 word problems with remainders. Ask students to explain their reasoning in one sentence.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth Science: Create a task comparing types of rocks or soils. Include sorting activity and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 25",
+      "start_date": "2026-03-12",
+      "end_date": "2026-03-18",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a story with dialogue and theme. Include 5 comprehension and 3 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Offer verb conjugation practice in present tense and irregular forms. Include 4 fill-in-the-blank sentences.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Create fraction comparison and equivalent fraction tasks with visuals. Include 3 questions using number lines.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Build a lesson on forces and motion. Include a toy car investigation and 3 critical thinking questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 26",
+      "start_date": "2026-04-02",
+      "end_date": "2026-04-08",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt requiring a clearly stated opinion, supporting reasons, and linking words. Include 3 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a paragraph about a family tradition or favorite activity in Spanish. Include 2 sentence starters.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Write problems involving perimeter, area, and elapsed time. Include 1 real-world scenario.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Prompt a task on light or sound energy with diagrams. Include vocabulary and 3 questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 27",
+      "start_date": "2026-04-09",
+      "end_date": "2026-04-15",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate a nonfiction passage about a science or social studies topic with 5 comprehension and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Task student to prepare a short speech in Spanish about a personal interest. Include checklist and 2 practice lines.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Task students with identifying lines, angles, and classifying shapes. Include diagrams and 4 multiple choice questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Weather/Climate: Provide a reading on weather patterns and graphing activity using real data. Include 4 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 28",
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-22",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Create grammar practice involving complex sentences, possessives, and plural rules. Provide 4 sample sentences to correct or complete.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Present a mini reading in Spanish about a Hispanic holiday or custom. Include 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Provide bar graph and line plot interpretation problems. Include 2 questions where students create their own graph.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Ask students to brainstorm and categorize ways humans affect Earth. Include drawing + 2 short responses.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 29",
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-29",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt a story with a clear beginning, rising action, climax, and resolution. Include 2 visual organizer templates.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 30",
+      "start_date": "2026-04-30",
+      "end_date": "2026-05-06",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Design a retelling/presentation task using note cards and visual prompts. Include a rubric and 2 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: Provide themed Spanish vocabulary with 10 new words, 5 example sentences, and a matching activity.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Generate 4 two-digit by one-digit and 2 multi-step word problems. Include space to show work.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Provide reading on ecosystems or animal adaptations with 5 follow-up questions and 1 drawing task.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 31",
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-13",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Create a structured research prompt with a sample topic, note-taking chart, and 4 questions to guide inquiry.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Create a Spanish paragraph (~100 words) with 5 comprehension and 2 inference questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Write 5 word problems with remainders. Ask students to explain their reasoning in one sentence.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth Science: Create a task comparing types of rocks or soils. Include sorting activity and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 32",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-20",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with figurative language. Include 3 interpretation and 2 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Offer verb conjugation practice in present tense and irregular forms. Include 4 fill-in-the-blank sentences.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Create fraction comparison and equivalent fraction tasks with visuals. Include 3 questions using number lines.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Build a lesson on forces and motion. Include a toy car investigation and 3 critical thinking questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 33",
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-27",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a story with dialogue and theme. Include 5 comprehension and 3 vocabulary questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a paragraph about a family tradition or favorite activity in Spanish. Include 2 sentence starters.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Write problems involving perimeter, area, and elapsed time. Include 1 real-world scenario.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Prompt a task on light or sound energy with diagrams. Include vocabulary and 3 questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 34",
+      "start_date": "2026-05-28",
+      "end_date": "2026-06-03",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt requiring a clearly stated opinion, supporting reasons, and linking words. Include 3 reflection questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Task student to prepare a short speech in Spanish about a personal interest. Include checklist and 2 practice lines.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Task students with identifying lines, angles, and classifying shapes. Include diagrams and 4 multiple choice questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Weather/Climate: Provide a reading on weather patterns and graphing activity using real data. Include 4 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 35",
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-10",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate a nonfiction passage about a science or social studies topic with 5 comprehension and 3 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Present a mini reading in Spanish about a Hispanic holiday or custom. Include 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Provide bar graph and line plot interpretation problems. Include 2 questions where students create their own graph.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Ask students to brainstorm and categorize ways humans affect Earth. Include drawing + 2 short responses.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 36",
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-15",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Create grammar practice involving complex sentences, possessives, and plural rules. Provide 4 sample sentences to correct or complete.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Write a dialogue about daily routine. Include vocabulary and 3 follow-up questions in Spanish.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Provide 5 problems on reading, writing, and comparing multi-digit numbers. Include 2 bonus problems on rounding.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an experiment about how different materials conduct heat. Include materials list, hypothesis question, and analysis chart.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    }
+  ]
+}

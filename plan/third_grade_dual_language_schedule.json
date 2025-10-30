@@ -1,0 +1,709 @@
+{
+  "context": {
+    "enhanced_by": "ChatGPT - Structured for LLM consumption with practice emphasis, assessment type, and language tags"
+  },
+  "schedule": [
+    {
+      "week": "Week 1",
+      "start_date": "2025-10-29",
+      "end_date": "2025-11-04",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a short story with characters and a moral. Provide 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Create a short dialogue in Spanish on a familiar topic with vocab and questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Provide 5 contextual problems using arrays and repeated addition.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an investigation setup with question, materials, and analysis.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 2",
+      "start_date": "2025-11-05",
+      "end_date": "2025-11-11",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt where students express an opinion and support it with reasons. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: List themed vocab words with contextual sentences and matching tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Generate 5 word problems with visual support and explanation.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Generate a text or task on plant/animal traits and habitats. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 3",
+      "start_date": "2025-11-12",
+      "end_date": "2025-11-18",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate an informational text with questions about main idea and key details.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Generate a short Spanish paragraph with questions to test comprehension.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Provide a mini-lesson with visual models and fraction comparison. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth/Space: Provide a reading/activity about weather, climate, or Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 4",
+      "start_date": "2025-12-03",
+      "end_date": "2025-12-09",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Provide grammar practice (e.g., nouns, verbs, contractions) with explanations. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Provide conjugation practice and subject-verb agreement tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Create tasks on multi-digit numbers and rounding. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Set up a task on force/motion or simple machines with reflection. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 5",
+      "start_date": "2025-12-10",
+      "end_date": "2025-12-16",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt students to write a narrative with sequence and closure. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a short Spanish paragraph describing a personal experience. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Generate problems for perimeter, area, and unit conversion.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Generate a task exploring sound, heat, or light energy. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 6",
+      "start_date": "2026-01-07",
+      "end_date": "2026-01-13",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Provide a task for oral retelling or reporting with rubric. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Create a prompt to present a topic in Spanish using learned vocabulary. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Provide problems on classifying and comparing shapes.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Provide an activity about human interaction with Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 7",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-20",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Generate a mini-research prompt with structure and note-taking scaffold. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Introduce a cultural topic with reading and follow-up questions in Spanish.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Create bar graph interpretation and a student survey activity. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an investigation setup with question, materials, and analysis.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 8",
+      "start_date": "2026-01-21",
+      "end_date": "2026-01-27",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with interpretation questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Create a short dialogue in Spanish on a familiar topic with vocab and questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Provide 5 contextual problems using arrays and repeated addition.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Generate a text or task on plant/animal traits and habitats. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 9",
+      "start_date": "2026-01-28",
+      "end_date": "2026-02-03",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a short story with characters and a moral. Provide 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: List themed vocab words with contextual sentences and matching tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Generate 5 word problems with visual support and explanation.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth/Space: Provide a reading/activity about weather, climate, or Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 10",
+      "start_date": "2026-02-04",
+      "end_date": "2026-02-10",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt where students express an opinion and support it with reasons. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Generate a short Spanish paragraph with questions to test comprehension.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Provide a mini-lesson with visual models and fraction comparison. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Set up a task on force/motion or simple machines with reflection. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 11",
+      "start_date": "2026-02-11",
+      "end_date": "2026-02-17",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate an informational text with questions about main idea and key details.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Provide conjugation practice and subject-verb agreement tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Create tasks on multi-digit numbers and rounding. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Generate a task exploring sound, heat, or light energy. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 12",
+      "start_date": "2026-02-18",
+      "end_date": "2026-02-24",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Provide grammar practice (e.g., nouns, verbs, contractions) with explanations. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a short Spanish paragraph describing a personal experience. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Generate problems for perimeter, area, and unit conversion.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Provide an activity about human interaction with Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 13",
+      "start_date": "2026-02-25",
+      "end_date": "2026-03-03",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt students to write a narrative with sequence and closure. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Create a prompt to present a topic in Spanish using learned vocabulary. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Provide problems on classifying and comparing shapes.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an investigation setup with question, materials, and analysis.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 14",
+      "start_date": "2026-03-04",
+      "end_date": "2026-03-10",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Provide a task for oral retelling or reporting with rubric. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Introduce a cultural topic with reading and follow-up questions in Spanish.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Create bar graph interpretation and a student survey activity. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Generate a text or task on plant/animal traits and habitats. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 15",
+      "start_date": "2026-03-11",
+      "end_date": "2026-03-17",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Generate a mini-research prompt with structure and note-taking scaffold. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Create a short dialogue in Spanish on a familiar topic with vocab and questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Provide 5 contextual problems using arrays and repeated addition.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth/Space: Provide a reading/activity about weather, climate, or Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 16",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-07",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with interpretation questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: List themed vocab words with contextual sentences and matching tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Generate 5 word problems with visual support and explanation.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Set up a task on force/motion or simple machines with reflection. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 17",
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-14",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a short story with characters and a moral. Provide 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Generate a short Spanish paragraph with questions to test comprehension.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Provide a mini-lesson with visual models and fraction comparison. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Generate a task exploring sound, heat, or light energy. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 18",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-21",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt where students express an opinion and support it with reasons. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Provide conjugation practice and subject-verb agreement tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Create tasks on multi-digit numbers and rounding. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Provide an activity about human interaction with Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 19",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-28",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Info: Generate an informational text with questions about main idea and key details.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a short Spanish paragraph describing a personal experience. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Generate problems for perimeter, area, and unit conversion.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an investigation setup with question, materials, and analysis.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 20",
+      "start_date": "2026-04-29",
+      "end_date": "2026-05-05",
+      "subjects": {
+        "English": {
+          "prompt": "Language: Provide grammar practice (e.g., nouns, verbs, contractions) with explanations. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Presentational: Create a prompt to present a topic in Spanish using learned vocabulary. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Geometry: Provide problems on classifying and comparing shapes.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Generate a text or task on plant/animal traits and habitats. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 21",
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-12",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Narrative: Prompt students to write a narrative with sequence and closure. Include 3\u20135 practice questions.",
+          "assessment_type": "creative",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Culture: Introduce a cultural topic with reading and follow-up questions in Spanish.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Data: Create bar graph interpretation and a student survey activity. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Earth/Space: Provide a reading/activity about weather, climate, or Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 22",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-19",
+      "subjects": {
+        "English": {
+          "prompt": "Speaking & Listening: Provide a task for oral retelling or reporting with rubric. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpersonal: Create a short dialogue in Spanish on a familiar topic with vocab and questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Multiplication: Provide 5 contextual problems using arrays and repeated addition.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Physical Science: Set up a task on force/motion or simple machines with reflection. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 23",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-26",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Research: Generate a mini-research prompt with structure and note-taking scaffold. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Vocabulary: List themed vocab words with contextual sentences and matching tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Division: Generate 5 word problems with visual support and explanation.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Energy: Generate a task exploring sound, heat, or light energy. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 24",
+      "start_date": "2026-05-27",
+      "end_date": "2026-06-02",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Poetry: Provide a short poem with interpretation questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Interpretive: Generate a short Spanish paragraph with questions to test comprehension.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Fractions: Provide a mini-lesson with visual models and fraction comparison. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Human Impact: Provide an activity about human interaction with Earth systems. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 25",
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-09",
+      "subjects": {
+        "English": {
+          "prompt": "Reading Literature: Generate a short story with characters and a moral. Provide 3 comprehension questions.",
+          "assessment_type": "comprehension",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Grammar: Provide conjugation practice and subject-verb agreement tasks. Include 3\u20135 practice questions.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Place Value: Create tasks on multi-digit numbers and rounding. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Inquiry: Create an investigation setup with question, materials, and analysis.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    },
+    {
+      "week": "Week 26",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-15",
+      "subjects": {
+        "English": {
+          "prompt": "Writing Opinion: Provide a prompt where students express an opinion and support it with reasons. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        },
+        "Spanish": {
+          "prompt": "Writing: Prompt for a short Spanish paragraph describing a personal experience. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "Spanish"
+        },
+        "Math": {
+          "prompt": "Measurement: Generate problems for perimeter, area, and unit conversion.",
+          "assessment_type": "skill practice",
+          "language_of_instruction": "English"
+        },
+        "Science": {
+          "prompt": "Life Science: Generate a text or task on plant/animal traits and habitats. Include 3\u20135 practice questions.",
+          "assessment_type": "mixed",
+          "language_of_instruction": "English"
+        }
+      }
+    }
+  ]
+}
